@@ -1,0 +1,84 @@
+.box1{
+    width: 300px;
+}
+.bg{
+    background: #F8F5FC;
+
+}
+.btn{
+    background-color: blueviolet;
+    border-radius: 20px;
+    color: white;
+}
+.covid{
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif, Calibri, 'Trebuchet MS';
+    font-weight: 400;
+}
+.Stay{
+    color: #6F42C1!important;
+    font-weight: bolder;
+}
+.Tcolor{
+    color: #6F42C1!important;
+    font-weight: bolder;
+}
+.gray{
+    color:#A4A4A4;
+
+
+}
+.bug{
+    width: 50px;
+    height: 50px;
+    margin-left: 70px;
+    
+
+}
+.box{
+    width: 200px;
+   
+
+
+}
+.feverpic{
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.bold{
+    font-weight: bolder !important;
+}
+/* .right{
+    margin-left:1380px !important ;
+} */
+.pic1{
+    width:200px !important;
+}
+.box4{
+ 
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.box34{
+    width:290px
+}
+
+.boxM{
+    margin-left: 30px;
+}
+ul li{
+    /* list-style-type: none; */
+    color: #6F42C1;
+    font-weight: 300px;
+}
+.footer{
+ background: #F8F5FC;
+    ;
+    
+}
+.box7{
+    width: 300px;
+}
